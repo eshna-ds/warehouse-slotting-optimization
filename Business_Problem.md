@@ -42,3 +42,15 @@ The system will:
 - Reduce unnecessary worker movement.
 - Improve order-picking efficiency.
 - Support data-driven warehouse layout decisions.
+
+## 6. SKU
+
+SKU = Stock Keeping Unit
+
+It is a unique identifier for a product.
+
+Example:
+
+SKU001 → Dell Laptop
+SKU002 → Wireless Mouse
+SKU003 → Mechanical Keyboard
